@@ -10,7 +10,7 @@
 Summary:	A library to parse and manage gettext catalogs
 Name:		python-%{pypi_name}
 Version:	1.0.7
-Release:	7
+Release:	8
 License:	MIT
 Source0:	http://bitbucket.org/izi/polib/get/%{version}.tar.gz
 # Source0-md5:	270110a7010425738e9a08832c5cba4f
